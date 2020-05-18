@@ -1,0 +1,33 @@
+{
+    "name": "json-keys",
+    "version": "0.0.1",
+    "description": "Small libary to retrieve keys of a JSON object or array.",
+    "main": "dist/index.js",
+    "scripts": {
+        "build": "npx webpack",
+        "test": "npx webpack && jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pichsenmeister/json-keys.git"
+    },
+    "keywords": [
+        "json",
+        "keys",
+        "json keys",
+        "filter",
+        "json tool"
+    ],
+    "author": "David Pichsenmeister <opensource@pichsenmeister.com>",
+    "homepage": "https://github.com/pichsenmeister/json-keys",
+    "license": "MIT",
+    "dependencies": {},
+    "devDependencies": {
+        "@babel/core": "^7.9.6",
+        "@babel/preset-env": "^7.9.6",
+        "babel-loader": "^8.1.0",
+        "jest": "^26.0.1",
+        "webpack": "^4.43.0",
+        "webpack-cli": "^3.3.11"
+    }
+}
