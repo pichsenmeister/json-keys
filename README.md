@@ -18,19 +18,19 @@ Small libary to retrieve keys of a JSON object or array.
 Install via npm
 
 ```
-npm install json-keys
+npm install @barreljs/json-keys
 ```
 
 or yarn
 
 ```
-yarn add json-keys
+yarn add @barreljs/json-keys
 ```
 
 ## Getting started
 
 ```
-const JsonKeys = require('json-keys')
+const JsonKeys = require('@barreljs/json-keys')
 
 
 ```
