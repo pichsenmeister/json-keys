@@ -1,6 +1,6 @@
 {
     "name": "@barreljs/json-keys",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Small libary to retrieve keys of a JSON object or array.",
     "main": "dist/index.js",
     "scripts": {
